@@ -1,2 +1,2 @@
 # CardHover
-Please Hover
+Just Hover
